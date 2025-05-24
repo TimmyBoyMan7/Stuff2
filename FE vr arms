@@ -10,7 +10,7 @@ local camera = workspace.CurrentCamera
 
 -- Settings
 local CROSSFADE_TIME = 0.5
-local boxTransparency = 1
+local boxTransparency = 0.3
 local idleArms = false
 local idleTrack = nil
 
